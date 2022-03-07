@@ -40,15 +40,15 @@ section {
   position:relative;
 }
 #title2{
-	background-color:yellow;
-	border: 1px solid black;
 	font-size:14px;
+	border: 1px solid black;
 	width:100px;
-	font-weight: bold;
    text-align:center;
+   font-weight: bold;
   color:black;
   margin-left:15px;
   padding:6px;
+  background-color:yellow;
   float:right;
  z-index:3;
  display:block;
